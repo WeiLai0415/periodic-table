@@ -1,0 +1,268 @@
+1
+00:00:00,000 --> 00:00:00,500
+ 
+
+2
+00:00:00,500 --> 00:00:01,000
+ 
+
+3
+00:00:01,000 --> 00:00:08,000
+Ja nyt, ASAPSCIENCE esittää jaksollisen järjestelmän alkuaineet
+
+4
+00:00:08,500 --> 00:00:12,260
+On vety, sitten helium ja litium, beryllium
+
+5
+00:00:12,260 --> 00:00:14,100
+boori, hiili (kaikkialla)
+
+6
+00:00:14,100 --> 00:00:15,300
+Typpeä on ilmassa
+
+7
+00:00:15,460 --> 00:00:16,860
+Ja happea jotta voit hengittää
+
+8
+00:00:16,860 --> 00:00:18,480
+Fluoria hampaillesi
+
+9
+00:00:18,500 --> 00:00:19,940
+Neonia kylteille
+
+10
+00:00:19,940 --> 00:00:21,300
+Natriumia suolaisille ajoille
+
+11
+00:00:21,380 --> 00:00:22,640
+Magnesium,
+
+12
+00:00:22,640 --> 00:00:24,080
+alumiini, pii
+
+13
+00:00:24,080 --> 00:00:25,260
+Fosfori!
+
+14
+00:00:25,260 --> 00:00:27,280
+Sitten rikki, kloori ja argon
+
+15
+00:00:27,280 --> 00:00:28,500
+Kalium!
+
+16
+00:00:28,500 --> 00:00:30,120
+Ja kalsium niin vahvistut
+
+17
+00:00:30,160 --> 00:00:31,120
+Skandium!
+
+18
+00:00:31,120 --> 00:00:34,320
+Titaani, vanadiini ja kromi ja mangaani!
+
+19
+00:00:34,320 --> 00:00:41,100
+Tämä on jaksollinen järjestelmä, jalokaasut ovat passiivisia, halogeenit ja alkalimetallit reagoivat vahvasti!
+
+20
+00:00:41,160 --> 00:00:43,880
+Joka jaksossa yksi kuori lisää,
+
+21
+00:00:43,880 --> 00:00:46,000
+ja elektroneja tulee enemmän oikealle mentäessä
+
+22
+00:00:46,840 --> 00:00:48,160
+Rauta, numero 26
+
+23
+00:00:48,160 --> 00:00:49,580
+Koboltti ja nikkeli (kolikkosi)
+
+24
+00:00:49,580 --> 00:00:51,000
+Kupari, sinkki, gallium
+
+25
+00:00:51,000 --> 00:00:52,680
+Germanium ja arseeni!
+
+26
+00:00:52,680 --> 00:00:55,420
+Seleeni ja bromi filmit, ja krypton huoneen valoihin
+
+27
+00:00:55,420 --> 00:00:58,380
+Rubidium, strontium ja yttrium, zirkonium
+
+28
+00:00:58,380 --> 00:00:59,800
+Niobium!
+
+29
+00:00:59,800 --> 00:01:00,520
+Molybdeeni
+
+30
+00:01:00,520 --> 00:01:01,180
+Teknetium
+
+31
+00:01:01,180 --> 00:01:02,580
+Rutenium!
+
+32
+00:01:02,580 --> 00:01:04,020
+Rodium, palladium
+
+33
+00:01:04,240 --> 00:01:06,820
+Hopea ja kadmium ja indium
+
+34
+00:01:06,860 --> 00:01:07,840
+Tina!
+
+35
+00:01:08,020 --> 00:01:08,740
+Antimoni
+
+36
+00:01:08,960 --> 00:01:13,040
+Telluuri ja jodi ja ksenon ja sitten cesium ja
+
+37
+00:01:13,040 --> 00:01:17,340
+Barium on 56, ja tässä lista katkeaa
+
+38
+00:01:17,340 --> 00:01:20,380
+sillä lantanoidit alkaa saa
+
+39
+00:01:20,780 --> 00:01:27,040
+Lantaani, serium ja praseodyymi
+
+40
+00:01:27,320 --> 00:01:31,260
+Neodyymi vieressä prometiumin, ja numero 62 on
+
+41
+00:01:31,520 --> 00:01:41,340
+Samarium, europium, gadolinium ja terbium, dysprosium, holmium, erbium, tulium, ytterbium, lutetium
+
+42
+00:01:41,340 --> 00:01:47,240
+Hafnium, tantaali, volframi ja sitten tulee renium, osmium ja iridium
+
+43
+00:01:47,240 --> 00:01:49,940
+Platina, kulta joka tekee sinut rikkaaksi
+
+44
+00:01:49,940 --> 00:01:52,920
+Elohopea, kertoo lämpötilan
+
+45
+00:01:52,920 --> 00:01:54,140
+Tallium
+
+46
+00:01:54,140 --> 00:01:55,800
+ja lyijy sekä vismutti sinun massuusi
+
+47
+00:01:55,800 --> 00:01:57,060
+Polonium!
+
+48
+00:01:57,060 --> 00:01:58,560
+Astatiini, pahalta niin maistuisi
+
+49
+00:01:58,560 --> 00:02:01,520
+Radon, frankium vain vähän aikaa kestäisi
+
+50
+00:02:01,520 --> 00:02:02,280
+Radium!
+
+51
+00:02:02,280 --> 00:02:05,380
+Sitten aktinoidit alkaa 89:stä!
+
+52
+00:02:05,380 --> 00:02:11,760
+Tämä on jaksollinen järjestelmä, jalokaasut ovat passiivisia, halogeenit ja alkalimetallit reagoivat vahvasti!
+
+53
+00:02:11,760 --> 00:02:15,920
+Joka jaksossa yksi kuori lisää, ryhmät elektroneja niille kerää
+
+54
+00:02:15,920 --> 00:02:18,400
+Aktinium, torium, protaktinium
+
+55
+00:02:18,760 --> 00:02:21,160
+Uraani, neptunium, plutonium
+
+56
+00:02:21,160 --> 00:02:23,660
+Amerikium, curium, berkelium, kalifornium, einsteinium
+
+57
+00:02:23,660 --> 00:02:28,760
+Fermium, mendelevium, nobelium, lawrencium, rutherfordium, dubnium, seaborgium, bohrium, hassium, meitnerium, darmstadtium
+
+58
+00:02:28,760 --> 00:02:29,660
+Röntgenium, kopernikium
+
+59
+00:02:29,660 --> 00:02:30,900
+Ununtrium!
+
+60
+00:02:30,900 --> 00:02:32,280
+Flerovium
+
+61
+00:02:32,280 --> 00:02:34,920
+Ununpentium, livermorium
+
+62
+00:02:34,920 --> 00:02:37,900
+Ununseptium, ununoktium
+
+63
+00:02:37,900 --> 00:02:42,600
+Ja siinä kaikki on!
+
+64
+00:02:44,420 --> 00:02:45,380
+ 
+
+65
+00:02:45,380 --> 00:02:47,680
+ 
+
+66
+00:02:47,680 --> 00:02:48,440
+ 
+
+67
+00:02:48,440 --> 00:02:51,400
+ 
+
